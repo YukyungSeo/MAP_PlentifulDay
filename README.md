@@ -7,3 +7,5 @@
 ## Design Sprint Youtube URL
 * Monday : https://youtu.be/EIPa6eOQZYM
 * Tuesday : https://youtu.be/ar6PJI7ZQpQ 
+* Wednesday : https://youtu.be/3RNKtN3TV0U
+* Thursday : https://youtu.be/VzrDusiIlZ4
